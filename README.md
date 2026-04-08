@@ -64,13 +64,11 @@ Hello! I'm Antonio, a passionate Software Developer and IT Associate who loves b
 
 <br/>
 
-<!-- Snake Game Contribution Graph -->
+<!-- Contribution Graph - No Actions Required -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioOdhiambo/AntonioOdhiambo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioOdhiambo/AntonioOdhiambo/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AntonioOdhiambo/AntonioOdhiambo/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonioOdhiambo&theme=react-dark&bg_color=0D1117&color=3B82F6&line=06B6D4&point=FFFFFF&hide_border=true&area=true&area_color=3B82F6" width="100%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonioOdhiambo&theme=radical&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4" width="100%" />
 </div>
 
 <br/>
