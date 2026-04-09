@@ -1,7 +1,5 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Antonio%20Odhiambo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%26%20IT%20Associate&descAlignY=55" width="100%"/>
-</div>
+
 
 <!-- Animated Typing Effect -->
 <div align="center">
