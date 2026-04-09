@@ -44,7 +44,7 @@ Hello! I'm Antonio, a passionate Software Developer and IT Associate who loves b
   </a>
   <br/><br/>
   <a href="https://github.com/AntonioOdhiambo/mindconnect">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonioOdhiambo&repo=mindconnect&theme=radical&border_color=3B82F6&border_radius=10" />
+    
   </a>
 </div>
 
